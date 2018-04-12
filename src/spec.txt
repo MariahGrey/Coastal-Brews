@@ -1,0 +1,5 @@
+Beer List App
+
+-users should be able to view all beers - AllBeers
+-users should be able to view a beer category - BeersByCategory
+-users should be able to view a beer's details - BeerDetails
